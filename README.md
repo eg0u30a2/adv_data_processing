@@ -13,9 +13,10 @@ OBJECTIVES:
 
 
 INSTRUCTIONS:
-- The user is to add their own filepaths in all .m files, otherwise errors will result
+- The user is to add their own filepaths in all .m files, otherwise errors will result.
 - Press Run and follow instructions in the Command Window
 - A Test Matrix featuring the test parameters should accompany the script to enable accurate filenames and sub-folders to be created
+- The codes are to be used as a guide only and are to be adjusted depending on the user requirements, e.g. ADV sampling frequency, flume geometry, measurement coordinates, traverse speed, data windowing, filepaths, etc.
 
 
 NOTES:
@@ -25,6 +26,7 @@ NOTES:
 - Transect measurement increment is 125 mm in both the horizontal and vertical directions (see 'cruciform_measurement_coordinates.png')
 - Measurements performed on a 2D traverse, the speed and acceleration parameters for which can be modified in profiling_post_processing.m
 - The folder 'example' contains an example text matrix with pre-populated inputs (a filename convention for reading the input files is already defined for the script)
+
 
 TO FOLLOW:
 - A script for ADV data analysis and its associated functions will follow at a later date
