@@ -25,6 +25,6 @@ NOTES:
 - Vertical and cross-stream measurement profiles contain a measurement increment of 100 mm
 - Vertical profiles contain nine measurement points throughout the 1000 mm channel depth
 - Horitzontal profiles contain ten measurement points across the 1100 mm channel width
-- Transect measurement increment is 125 mm in both the horizontal and vertical direction 
+- Transect measurement increment is 125 mm in both the horizontal and vertical directions
 - Measurements performed on a 2D traverse, the speed and acceleration parameters for which can be modified in profiling_post_processing.m
 - A script for ADV data analysis and its associated functions will follow at a later date
