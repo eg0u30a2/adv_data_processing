@@ -18,6 +18,7 @@ function A = rotation_solver(u_i_bar,DoR,p_bar,y_bar)
 % 
 % References:
 % http://planning.cs.uiuc.edu/node102.html
+% Code adapted from Mujal, et al. UPC (2015) https://github.com/vicente-medina/TurbulenceToolbox
 
 % Initial guess at angular misalignment [pitch yaw]
 x0 = [p_bar y_bar];
