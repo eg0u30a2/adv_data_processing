@@ -24,7 +24,7 @@ NOTES:
 - Horitzontal profiles contain ten measurement points across the 1100 mm channel width (see 'cruciform_measurement_coordinates.png')
 - Transect measurement increment is 125 mm in both the horizontal and vertical directions (see 'cruciform_measurement_coordinates.png')
 - Measurements performed on a 2D traverse, the speed and acceleration parameters for which can be modified in profiling_post_processing.m
-- The folder 'example' contains example test data and an example text matrix with pre-populated inputs (a filename convention for reading the input files is already defined for the script)
+- The folder 'example' contains an example text matrix with pre-populated inputs (a filename convention for reading the input files is already defined for the script)
 
 TO FOLLOW:
 - A script for ADV data analysis and its associated functions will follow at a later date
