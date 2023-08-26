@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ADV Data Post-Processing using MATLAB
+title: ADV Data Processing using MATLAB
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -17,6 +17,5 @@ identifiers:
     value: 'https://github.com/eg0u30a2/adv_data_processing.git'
 repository-code: 'https://github.com/eg0u30a2/adv_data_processing.git'
 abstract: >-
-  MATLAB code to post-process ADV data ready for data
-  analysis
+  MATLAB code to process ADV data
 license: MIT
