@@ -17,9 +17,7 @@ INSTRUCTIONS:
 The user is to add their own filepaths in all .m files, otherwise errors will result
 Press Run and follow instructions in the Command Window
 
-The linked functions include:
-merging.m - 
-
-
 NOTES:
+Vertical and cross-stream measurement profiles contain a measurement increment of 100 mm. 
+Measurements performed on a 2D traverse, the speed and acceleration parameters for which can be modified in profiling_post_processing.m
 A script for ADV data analysis and its associated functions will follow at a later date.
