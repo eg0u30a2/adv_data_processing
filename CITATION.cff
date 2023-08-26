@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ADV Data Post-Processing using MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Rowe
+    email: daniel.rowe@eng.ox.ac.uk
+    affiliation: University of Oxford
+identifiers:
+  - type: url
+    value: 'https://github.com/eg0u30a2/adv_data_processing.git'
+repository-code: 'https://github.com/eg0u30a2/adv_data_processing.git'
+abstract: >-
+  MATLAB code to post-process ADV data ready for data
+  analysis
+license: MIT
