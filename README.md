@@ -27,4 +27,6 @@ NOTES:
 - Horitzontal profiles contain ten measurement points across the 1100 mm channel width
 - Transect measurement increment is 125 mm in both the horizontal and vertical directions
 - Measurements performed on a 2D traverse, the speed and acceleration parameters for which can be modified in profiling_post_processing.m
+
+TO FOLLOW...
 - A script for ADV data analysis and its associated functions will follow at a later date
