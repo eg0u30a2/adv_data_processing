@@ -8,7 +8,7 @@ OVERVIEW:
 
 OBJECTIVES:
 - Arrange the data into appropriate arrays
-- Apply data data windowing
+- Apply manual data windowing based on 2D traverse motion parameters
 - Determine inferred pitch and yaw of probe from 3D velocity measurements
 - Apply despiking algorithm of Goring and Nikora (2002)
 - Apply rotational corrections to the data to account for any probe misalignment
