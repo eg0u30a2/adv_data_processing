@@ -6,8 +6,8 @@ OBJECTIVES:
 - Arrange the data into ordered arrays
 - Apply manual data windowing based on 2D traverse motion parameters
 - Determine inferred pitch and yaw of probe from 3D velocity measurements
-- Apply despiking algorithm of Goring and Nikora (2002)
-- Apply rotational corrections to the data to account for any probe misalignment (code apdapted from Mujal, et al. UPC (2015) https://github.com/vicente-medina/TurbulenceToolbox)
+- Apply despiking algorithm of Goring and Nikora (2002) with Wahl (2003) amendments
+- Apply rotational corrections to the data to account for any probe misalignment (code adapted from Mujal, et al. UPC (2015) https://github.com/vicente-medina/TurbulenceToolbox)
 - Determine noise floor in velocity signal
 - Save data
 
