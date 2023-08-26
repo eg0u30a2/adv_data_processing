@@ -16,6 +16,7 @@ function [u_i_post_rot] = rotate_axes(u_i_pre_rot,fs,t,DoR)
 % 17/03/2023 - Removal of static pitch offset for rotational correction
 %
 % NOTES:
+% Code adapted from Mujal, et al. UPC (2015) https://github.com/vicente-medina/TurbulenceToolbox
 % Use the yaw (alpha), pitch (beta), roll (gamma) rotation angles.
 % http://planning.cs.uiuc.edu/node102.html
 %   
