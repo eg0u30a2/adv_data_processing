@@ -1,4 +1,4 @@
-# adv_data_processing
+# ADV Data Processing
 
 There is currently one high level script in the repository for ADV data post-processing (adv_post_process.m).
 
