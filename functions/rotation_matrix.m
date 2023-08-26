@@ -12,7 +12,10 @@ function F = rotation_matrix(angles,u_i_bar,DoR)
 % Rotation coefficients when applied to mean velocities (F)
 %
 % Version control:
-% 30/06/2023 - 
+% 30/06/2023 - Initial release
+%
+% NOTES:
+% Code adapted from Mujal, et al. UPC (2015) https://github.com/vicente-medina/TurbulenceToolbox
 
 if DoR == 2
 
