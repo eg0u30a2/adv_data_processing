@@ -1,10 +1,6 @@
 # ADV Data Processing in MATLAB
 
-There is currently one high level script in the repository for ADV data post-processing (adv_post_process.m).
-
-OVERVIEW:
-- Scripts reads ASCII file(s) from a Nortek Vectrino and calls multiple functions to post-process the ADV data.
-
+There is currently one high level script in the repository for ADV data post-processing (adv_post_process.m). The script reads ASCII file(s) from a Nortek Vectrino and calls multiple functions to post-process the ADV data.
 
 OBJECTIVES:
 - Arrange the data into appropriate arrays
